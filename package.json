@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-improve-codebase-architecture",
+  "version": "1.0.0",
+  "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you ",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "improve-codebase-architecture",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-improve-codebase-architecture.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-improve-codebase-architecture#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
